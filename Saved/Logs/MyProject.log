@@ -1372,3 +1372,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.30-12.32.46:558][717]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.30-12.32.46:560][717]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
 [2025.10.30-12.32.46:656][717]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sande/Documents/Unreal Projects/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.30-12.34.45:363][ 87]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 656.379639
+[2025.10.30-12.34.46:358][ 89]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-12.34.46:358][ 89]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 657.046204, Update Interval: 308.208862
